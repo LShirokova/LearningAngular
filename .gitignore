@@ -3,3 +3,4 @@ $ cat .gitignore
 *~
 /js/
 !/js/production.min.js
+gitCommand.html
