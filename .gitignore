@@ -4,4 +4,7 @@ $ cat .gitignore
 /js/*
 !/js/production.min.js
 /less/*
+/node_modules/
+Gruntfile.js
+package.json
 gitCommand.html
