@@ -12,3 +12,5 @@
 Краткая статистика под каждым коммитом: <b>git log --stat</b><br>
 Формат вывода коммитов: <b>git log --pretty=oneline</b>, тут параметр <b>oneline</b> выведет инф-ю в одну строку. Существуют следующие параметры: <b>short</b>, <b>full</b>, <b>fuller</b> и <b>format</b><br>
 Подробнее о <b>format</b>: позволяет полностью создать собственный формат вывода лога, например: git log --pretty=format:"%h - %an, %ar : %s" (<a href="http://git-scm.com/book/ru/v1/Основы-Git-Просмотр-истории-коммитов" target="_blank">http://git-scm.com/book/ru/v1/Основы-Git-Просмотр-истории-коммитов</a>)<br>
+Создание аннотированной (полной) метки (например, для обозначения версий): <b>git tag -a tag_name -m 'tag_commit'</b><br>
+Просмотр аннотированной метки: <b>git show tag_name</b><br>
