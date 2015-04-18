@@ -1,0 +1,6 @@
+$ cat .gitignore
+*.[oa]
+*~
+/js/
+!/js/production.min.js
+gitCommand.html
