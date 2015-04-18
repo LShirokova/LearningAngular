@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 $(document).ready(function(){
 	console.log(33);
 });;/*!
-=======
-;/*!
->>>>>>> 365241d7e4f5b215f1443350863af883afce97f9
  * Bootstrap v3.3.4 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
