@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	console.log(33);
+	console.log(11);
 });;/*!
  * Bootstrap v3.3.4 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
